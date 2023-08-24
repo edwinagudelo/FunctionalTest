@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1692885355 source:c:\users\edwin.agudelo\documents\development\cpps\functionaltest\src\functionprovider.cpp
+	"FunctionProvider.h"
+
+1692880040 c:\users\edwin.agudelo\documents\development\cpps\functionaltest\include\functionprovider.h
+	<iostream>
+	<string>
+
+1692881043 source:c:\users\edwin.agudelo\documents\development\cpps\functionaltest\src\functorprovider.cpp
+	"FunctorProvider.h"
+
+1692880979 c:\users\edwin.agudelo\documents\development\cpps\functionaltest\include\functorprovider.h
+	<iostream>
+	<string>
+
+1692882879 source:c:\users\edwin.agudelo\documents\development\cpps\functionaltest\src\testfunctional.cpp
+	"TestFunctional.h"
+
+1692882778 c:\users\edwin.agudelo\documents\development\cpps\functionaltest\include\testfunctional.h
+	<algorithm>
+	<functional>
+	<iostream>
+	<string>
+
+1692884897 source:c:\users\edwin.agudelo\documents\development\cpps\functionaltest\main.cpp
+	<cstdlib>
+	<functional>
+	<iostream>
+	<string>
+	"FunctionProvider.h"
+	"FunctorProvider.h"
+	"TestFunctional.h"
+
